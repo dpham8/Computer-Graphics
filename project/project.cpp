@@ -1,17 +1,10 @@
-//Dat Pham
-//
-//program: lab10 copied from lab9
-//
-//program: lab10.cpp
-//author:  Gordon Griesel
+//program: project.cpp
+//author: Dat Pham, Gordon Griesel 
 //date:    Fall 2021
-//purpose: Framework for X11 (Xlib, XWindows)
 //
-//This program implements a wrapper class to handle X11 operations.
-//The main function contain an infinite loop.
-//Keyboard input is handled.
-//Mouse input is handled.
-//All drawing is done in the render() function.
+//Prof. Gordon Grisel created the Framework for X11 (Xlib, XWindows)
+//Dat created his giant domino project on the framework.
+//
 //
 #include <stdio.h>
 #include <stdlib.h>
